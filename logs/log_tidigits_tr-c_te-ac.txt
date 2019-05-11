@@ -1,0 +1,347 @@
+- Reading config file......OK!
+- Chunk creation......OK!
+
+------------------------------ Epoch 00 / 23 ------------------------------
+ 
+----- Summary epoch 00 / 23
+Training on ['TIDIGITS_tr']
+Loss = 1.411 | err = 0.404 
+-----
+Validating on TIDIGITS_test
+Loss = 1.212 | err = 0.373 
+-----
+Learning rate on architecture1 = 0.08 
+-----
+Elapsed time (s) = 56
+
+ 
+------------------------------ Epoch 01 / 23 ------------------------------
+ 
+----- Summary epoch 01 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.888 | err = 0.299 
+-----
+Validating on TIDIGITS_test
+Loss = 1.116 | err = 0.346 
+-----
+Learning rate on architecture1 = 0.08 
+-----
+Elapsed time (s) = 55
+
+ 
+------------------------------ Epoch 02 / 23 ------------------------------
+ 
+----- Summary epoch 02 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.778 | err = 0.267 
+-----
+Validating on TIDIGITS_test
+Loss = 1.067 | err = 0.333 
+-----
+Learning rate on architecture1 = 0.08 
+-----
+Elapsed time (s) = 55
+
+ 
+------------------------------ Epoch 03 / 23 ------------------------------
+ 
+----- Summary epoch 03 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.710 | err = 0.248 
+-----
+Validating on TIDIGITS_test
+Loss = 1.044 | err = 0.327 
+-----
+Learning rate on architecture1 = 0.08 
+-----
+Elapsed time (s) = 55
+
+ 
+------------------------------ Epoch 04 / 23 ------------------------------
+ 
+----- Summary epoch 04 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.660 | err = 0.233 
+-----
+Validating on TIDIGITS_test
+Loss = 1.081 | err = 0.331 
+-----
+Learning rate on architecture1 = 0.08 
+-----
+Elapsed time (s) = 55
+
+ 
+------------------------------ Epoch 05 / 23 ------------------------------
+ 
+----- Summary epoch 05 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.590 | err = 0.210 
+-----
+Validating on TIDIGITS_test
+Loss = 1.015 | err = 0.312 
+-----
+Learning rate on architecture1 = 0.04 
+-----
+Elapsed time (s) = 55
+
+ 
+------------------------------ Epoch 06 / 23 ------------------------------
+ 
+----- Summary epoch 06 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.556 | err = 0.200 
+-----
+Validating on TIDIGITS_test
+Loss = 1.040 | err = 0.314 
+-----
+Learning rate on architecture1 = 0.04 
+-----
+Elapsed time (s) = 55
+
+ 
+------------------------------ Epoch 07 / 23 ------------------------------
+ 
+----- Summary epoch 07 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.519 | err = 0.187 
+-----
+Validating on TIDIGITS_test
+Loss = 1.034 | err = 0.314 
+-----
+Learning rate on architecture1 = 0.02 
+-----
+Elapsed time (s) = 54
+
+ 
+------------------------------ Epoch 08 / 23 ------------------------------
+ 
+----- Summary epoch 08 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.493 | err = 0.178 
+-----
+Validating on TIDIGITS_test
+Loss = 1.014 | err = 0.306 
+-----
+Learning rate on architecture1 = 0.01 
+-----
+Elapsed time (s) = 54
+
+ 
+------------------------------ Epoch 09 / 23 ------------------------------
+ 
+----- Summary epoch 09 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.482 | err = 0.175 
+-----
+Validating on TIDIGITS_test
+Loss = 1.014 | err = 0.306 
+-----
+Learning rate on architecture1 = 0.01 
+-----
+Elapsed time (s) = 54
+
+ 
+------------------------------ Epoch 10 / 23 ------------------------------
+ 
+----- Summary epoch 10 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.473 | err = 0.172 
+-----
+Validating on TIDIGITS_test
+Loss = 1.022 | err = 0.305 
+-----
+Learning rate on architecture1 = 0.01 
+-----
+Elapsed time (s) = 55
+
+ 
+------------------------------ Epoch 11 / 23 ------------------------------
+ 
+----- Summary epoch 11 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.464 | err = 0.169 
+-----
+Validating on TIDIGITS_test
+Loss = 1.019 | err = 0.305 
+-----
+Learning rate on architecture1 = 0.01 
+-----
+Elapsed time (s) = 55
+
+ 
+------------------------------ Epoch 12 / 23 ------------------------------
+ 
+----- Summary epoch 12 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.456 | err = 0.166 
+-----
+Validating on TIDIGITS_test
+Loss = 1.025 | err = 0.306 
+-----
+Learning rate on architecture1 = 0.005 
+-----
+Elapsed time (s) = 55
+
+ 
+------------------------------ Epoch 13 / 23 ------------------------------
+ 
+----- Summary epoch 13 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.448 | err = 0.163 
+-----
+Validating on TIDIGITS_test
+Loss = 1.019 | err = 0.303 
+-----
+Learning rate on architecture1 = 0.0025 
+-----
+Elapsed time (s) = 54
+
+ 
+------------------------------ Epoch 14 / 23 ------------------------------
+ 
+----- Summary epoch 14 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.444 | err = 0.162 
+-----
+Validating on TIDIGITS_test
+Loss = 1.016 | err = 0.303 
+-----
+Learning rate on architecture1 = 0.0025 
+-----
+Elapsed time (s) = 54
+
+ 
+------------------------------ Epoch 15 / 23 ------------------------------
+ 
+----- Summary epoch 15 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.442 | err = 0.161 
+-----
+Validating on TIDIGITS_test
+Loss = 1.025 | err = 0.305 
+-----
+Learning rate on architecture1 = 0.0025 
+-----
+Elapsed time (s) = 55
+
+ 
+------------------------------ Epoch 16 / 23 ------------------------------
+ 
+----- Summary epoch 16 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.440 | err = 0.161 
+-----
+Validating on TIDIGITS_test
+Loss = 1.020 | err = 0.303 
+-----
+Learning rate on architecture1 = 0.00125 
+-----
+Elapsed time (s) = 54
+
+ 
+------------------------------ Epoch 17 / 23 ------------------------------
+ 
+----- Summary epoch 17 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.438 | err = 0.159 
+-----
+Validating on TIDIGITS_test
+Loss = 1.016 | err = 0.303 
+-----
+Learning rate on architecture1 = 0.00125 
+-----
+Elapsed time (s) = 54
+
+ 
+------------------------------ Epoch 18 / 23 ------------------------------
+ 
+----- Summary epoch 18 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.435 | err = 0.159 
+-----
+Validating on TIDIGITS_test
+Loss = 1.023 | err = 0.303 
+-----
+Learning rate on architecture1 = 0.000625 
+-----
+Elapsed time (s) = 54
+
+ 
+------------------------------ Epoch 19 / 23 ------------------------------
+ 
+----- Summary epoch 19 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.435 | err = 0.158 
+-----
+Validating on TIDIGITS_test
+Loss = 1.021 | err = 0.303 
+-----
+Learning rate on architecture1 = 0.0003125 
+-----
+Elapsed time (s) = 55
+
+ 
+------------------------------ Epoch 20 / 23 ------------------------------
+ 
+----- Summary epoch 20 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.436 | err = 0.159 
+-----
+Validating on TIDIGITS_test
+Loss = 1.019 | err = 0.303 
+-----
+Learning rate on architecture1 = 0.00015625 
+-----
+Elapsed time (s) = 54
+
+ 
+------------------------------ Epoch 21 / 23 ------------------------------
+ 
+----- Summary epoch 21 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.435 | err = 0.159 
+-----
+Validating on TIDIGITS_test
+Loss = 1.018 | err = 0.303 
+-----
+Learning rate on architecture1 = 0.00015625 
+-----
+Elapsed time (s) = 55
+
+ 
+------------------------------ Epoch 22 / 23 ------------------------------
+ 
+----- Summary epoch 22 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.433 | err = 0.158 
+-----
+Validating on TIDIGITS_test
+Loss = 1.016 | err = 0.302 
+-----
+Learning rate on architecture1 = 7.8125e-05 
+-----
+Elapsed time (s) = 55
+
+ 
+------------------------------ Epoch 23 / 23 ------------------------------
+ 
+----- Summary epoch 23 / 23
+Training on ['TIDIGITS_tr']
+Loss = 0.434 | err = 0.158 
+-----
+Validating on TIDIGITS_test
+Loss = 1.018 | err = 0.303 
+-----
+Learning rate on architecture1 = 7.8125e-05 
+-----
+Elapsed time (s) = 56
+
+ 
+Testing TIDIGITS_test chunk = 1 / 1
+Decoding TIDIGITS_test output out_dnn1
+%WER 4.1 | 12547 41220 | 97.5 2.1 0.3 1.7 4.1 9.8 | -1.028 | /workspace/zhorai-workspace/pytorch-kaldi/exp/tidigits_tr-c_te-ac_MLP_basic/decode_TIDIGITS_test_out_dnn1/score_10/ctm_39phn.filt.sys
+
+ 
+-----
+Generating output files and plots ... 
+OK
